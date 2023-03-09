@@ -41,6 +41,7 @@ dependencies:
   rx_notifier: ^2.2.0+2
   dartz: ^0.10.1
   firebase_auth: ^4.2.10
+  google_sign_in: ^6.0.2
 
 dev_dependencies:
   flutter_test:
